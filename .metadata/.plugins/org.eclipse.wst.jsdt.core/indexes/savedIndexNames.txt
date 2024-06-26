@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\SOUMYAKANTA SWAIN\OneDrive\Desktop\SHOPPING_CART\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1580306055.index
+3735311700.index
+1660294510.index
+1958574627.index
+1055053521.index
+2232522647.index

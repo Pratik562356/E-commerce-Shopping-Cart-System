@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\SOUMYAKANTA SWAIN\OneDrive\Desktop\SHOPPING_CART\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\995783206.index
+\shoppingcart\src\main\resources
